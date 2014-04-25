@@ -1,0 +1,18 @@
+[submodule "app/server/public/js/vendor/knockout"]
+	path = app/server/public/js/vendor/knockout
+	url = git@github.com:knockout/knockout.git
+[submodule "app/server/public/js/vendor/jquery"]
+	path = app/server/public/js/vendor/jquery
+	url = git@github.com:jquery/jquery.git
+[submodule "app/server/public/js/vendor/underscore"]
+	path = app/server/public/js/vendor/underscore
+	url = git@github.com:jashkenas/underscore.git
+[submodule "app/server/public/js/vendor/requirejs"]
+	path = app/server/public/js/vendor/requirejs
+	url = git@github.com:jrburke/requirejs.git
+[submodule "app/server/public/js/vendor/text"]
+	path = app/server/public/js/vendor/text
+	url = git@github.com:requirejs/text.git
+[submodule "app/server/public/js/vendor/domReady"]
+	path = app/server/public/js/vendor/domReady
+	url = git@github.com:requirejs/domReady.git

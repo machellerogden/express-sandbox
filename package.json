@@ -1,0 +1,22 @@
+{
+    "name": "express-sandbox",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "bash -c './npm-scripts/start'",
+        "postinstall": "bash -c './npm-scripts/postinstall'"
+    },
+    "dependencies": {
+        "express": "~3.4.8",
+        "static-favicon": "~1.0.0",
+        "morgan": "~1.0.0",
+        "cookie-parser": "~1.0.1",
+        "body-parser": "~1.0.0",
+        "debug": "~0.7.4",
+        "jade": "~1.3.0",
+        "stylus": "0.42.3",
+        "nib": "1.0.2",
+        "shelljs": "^0.2.6",
+        "konphyg": "1.4.0"
+    }
+}

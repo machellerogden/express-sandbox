@@ -1,0 +1,9 @@
+#!/bin/bash
+npm install -g jshint
+npm install -g grunt-cli
+npm install -g nodemon@1.0.17
+git submodule init
+git submodule update
+cd app/server/public/js/vendor/knockout
+npm link grunt-cli
+npm install
